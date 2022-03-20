@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AD340">
         <activity
-            android:name=".MainActivity"
+            android:name="com.shannonware.ad340.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
