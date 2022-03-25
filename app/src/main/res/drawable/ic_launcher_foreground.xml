@@ -8,6 +8,13 @@
       android:translateX="16.74"
       android:translateY="16.74">
     <path
+        android:pathData="M257.342,257.181m-210.878,0a210.878,210.878 0,1 1,421.756 0a210.878,210.878 0,1 1,-421.756 0"
+        android:strokeLineJoin="round"
+        android:strokeWidth="69.2114"
+        android:fillColor="#ffffff"
+        android:strokeColor="#fffdff"
+        android:strokeLineCap="round"/>
+    <path
         android:pathData="M358.585,167.586 L121.993,260.005 277.256,200.857 235.36,471.952c0,0 -187.49,-21.297 -192.231,-215.644C40.455,146.69 129.959,44.868 255.076,43.745 373.087,42.685 476.922,138.326 470.72,267.398 463.309,421.615 317.921,462.094 317.921,462.094"
         android:strokeLineJoin="round"
         android:strokeWidth="64"
